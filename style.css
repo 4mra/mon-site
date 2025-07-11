@@ -12,3 +12,16 @@ p1{color :#819067;
 p2{color :#708A48;
 font-size: 160%;
  }
+ .sidenav{height: 100% 
+ 	width:0
+ 	position:fixed;
+ 	z-index: 1;
+ 	top:0;
+ 	left:0;
+ 	right:0;
+ 	background-color: #A76545;
+ 	overflow-x: hidden;
+ 	padding-top: 20px;}
+ 	.main{
+ 		margin-left: 200px;
+ 	}
