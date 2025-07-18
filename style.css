@@ -13,7 +13,7 @@ p2{color :#708A48;
 font-size: 160%;
  }
  .sidenav{height: 100% 
- 	width:0
+ 	width:160%
  	position:fixed;
  	z-index: 1;
  	top:0;
@@ -22,6 +22,7 @@ font-size: 160%;
  	background-color: #A76545;
  	overflow-x: hidden;
  	padding-top: 20px;}
- 	.main{
- 		margin-left: 200px;
- 	}
+ 	.sidenav a{padding: 6% 8% 6% 16%;
+ 		text-decoration:none;
+ 		font-size: 100%
+ 		color:#818181;}
