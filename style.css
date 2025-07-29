@@ -71,6 +71,16 @@ margin:0 auto}
     border-radius: 15px;
     margin-bottom: 15px;}
 
+.photo a{padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+    display: block;}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
 .carrousel {
             position: relative;
             width: 300px;
