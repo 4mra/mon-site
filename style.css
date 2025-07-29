@@ -8,6 +8,7 @@ p{color: #708A52; font-size: 80%;
 body{background-color:beige;font-family: serif;
 }
 img{width: 50%}
+
 p{color :#708A52;
  font-size:80%; text-align: center;
  }
@@ -48,8 +49,12 @@ text-align: center;
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 }
-img{display:block;
-margin:0 auto}
+
+img{
+ display:block;
+ margin:0 auto;
+ border-radius:40px
+}
 
 .photos{display: flex;
     gap: 30px;
