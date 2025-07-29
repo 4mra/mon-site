@@ -59,7 +59,7 @@ img{
 .photos{display: flex;
     gap: 30px;
     flex-wrap: wrap;
-    justify-content: center;}
+    justify-content:center;}
 
 .photo{background: #C78A3B;
   text-decoration-color: white;
