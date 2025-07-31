@@ -1,12 +1,18 @@
 h1{
+  color: black;
 background-color: #C78A3B;
 font-size: 200%;
-text-align:center;}
+text-align:center;
+}
+
 p{color: #708A52; font-size: 80%;
   text-align: center;
 }
+
 body{background-color:beige;font-family: serif;
+
 }
+
 img{width: 50%}
 
 p{color :#708A52;

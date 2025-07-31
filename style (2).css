@@ -1,9 +1,11 @@
 h1{
-background-color: #C78A3B;
+color: black;
+background-image: url("https://i.pinimg.com/736x/71/3c/99/713c994b06784e3f7547da5b96dab459.jpg");
 font-size: 200%;
 text-align:center;}
 
 body{background-color:beige;font-family: serif;
+justify-content: center;
 }
 img{width: 50%}
 
